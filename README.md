@@ -18,4 +18,7 @@
     <img src="images/samples.png" width="60%" height="60%"/>
 </p>
 
-
+## Предсказание модели
+<p align=center>
+    <img src="images/output.png" width="60%" height="60%"/>
+</p>
