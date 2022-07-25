@@ -22,3 +22,33 @@
 <p align=center>
     <img src="images/output.png" width="60%" height="60%"/>
 </p>
+
+## Результаты
+<p align=center>
+    <img src="images/results.png" width="60%" height="60%"/>
+</p>
+
+### Confusion matrix
+<p align=center>
+    <img src="images/confusion_matrix.png" width="60%" height="60%"/>
+</p>
+
+### F1
+<p align=center>
+    <img src="images/F1_curve.png" width="60%" height="60%"/>
+</p>
+
+### Precision
+<p align=center>
+    <img src="images/P_curve.png" width="60%" height="60%"/>
+</p>
+
+### Recall
+<p align=center>
+    <img src="images/R_curve.png" width="60%" height="60%"/>
+</p>
+
+### PR_curve
+<p align=center>
+    <img src="images/PR_curve.png" width="60%" height="60%"/>
+</p>
